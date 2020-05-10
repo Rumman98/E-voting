@@ -1,0 +1,40 @@
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\csc.exe
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\vbc.exe
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\VBCSCompiler.exe
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\Voting system.dll.config
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\Voting system.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\Voting system.pdb
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\obj\Debug\Voting system.csprojResolveAssemblyReference.cache
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\obj\Debug\Voting system.dll
+c:\users\dcl\documents\visual studio 2015\Projects\Voting system\Voting system\obj\Debug\Voting system.pdb
+H:\Projects\Voting system\Voting system\bin\roslyn\csc.exe
+H:\Projects\Voting system\Voting system\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Projects\Voting system\Voting system\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Projects\Voting system\Voting system\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Projects\Voting system\Voting system\bin\roslyn\System.Collections.Immutable.dll
+H:\Projects\Voting system\Voting system\bin\roslyn\System.Reflection.Metadata.dll
+H:\Projects\Voting system\Voting system\bin\roslyn\vbc.exe
+H:\Projects\Voting system\Voting system\bin\roslyn\VBCSCompiler.exe
+H:\Projects\Voting system\Voting system\bin\roslyn\VBCSCompiler.exe.config
+H:\Projects\Voting system\Voting system\bin\Voting system.dll.config
+H:\Projects\Voting system\Voting system\bin\Voting system.dll
+H:\Projects\Voting system\Voting system\bin\Voting system.pdb
+H:\Projects\Voting system\Voting system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Projects\Voting system\Voting system\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Projects\Voting system\Voting system\obj\Debug\Voting system.csprojResolveAssemblyReference.cache
+H:\Projects\Voting system\Voting system\obj\Debug\Voting system.dll
+H:\Projects\Voting system\Voting system\obj\Debug\Voting system.pdb
